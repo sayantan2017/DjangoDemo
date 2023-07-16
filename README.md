@@ -37,6 +37,19 @@ Add routing
 ![image](https://github.com/sayantan2017/DjangoDemo/assets/26603086/c63d48ff-b612-4693-b2a6-29df18afc99d)
 
 
+Step 7 - 
+
+Add endpoints / views
+
+![image](https://github.com/sayantan2017/DjangoDemo/assets/26603086/b353aef0-e6db-4361-8eee-a299a3a33dfd)
+
+![image](https://github.com/sayantan2017/DjangoDemo/assets/26603086/4852295c-8597-4cb8-80e8-403ac337851a)
+
+![image](https://github.com/sayantan2017/DjangoDemo/assets/26603086/c9593329-69cd-4031-8c88-56ef03b12322)
+
+
+
+
 
 
 
